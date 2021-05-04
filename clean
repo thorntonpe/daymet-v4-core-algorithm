@@ -1,0 +1,14 @@
+cd bin
+rm *
+cd ../interpolate.d
+rm *.o
+cd ../libfio.d
+rm *.o
+cd ../libgeo.d
+rm *.o
+cd ../predict.d
+rm *.o
+cd ../tools.d
+rm *.o
+cd ../xval.d
+rm *.o
